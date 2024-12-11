@@ -13,3 +13,6 @@ void tel:setcena(int y){
 void tel:setmodel(string x){
   model = x;
 }
+void tel:show(){
+  cout << "Стоимость =" << " " << cena << " " << "Модель телефона -" << " " << model << endl;
+}
