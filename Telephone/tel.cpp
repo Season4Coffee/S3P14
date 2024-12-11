@@ -2,6 +2,7 @@
 using namespace std;
 tel:tel(){
   strcpy(model,"noname");
+  strcpy(cena,0);
 }
 tel:tel(string x,int y){
   model = x;
