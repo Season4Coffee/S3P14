@@ -25,6 +25,12 @@ int main(){
     }
   }
   for(i=0;i<4;i++){
-    if()
+    prob=t[i]->getcena
+    if(prob<mincena){
+      mincena=prob;
+    }
+    else{
+      mincena=mincena;
+    }
   }
 }
