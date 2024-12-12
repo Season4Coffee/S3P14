@@ -6,6 +6,7 @@ public:
 mob(string x, int y, string z);
 void settype(string z);
 void show();
+void edit;
 protected:
 private:
 string typecn;
