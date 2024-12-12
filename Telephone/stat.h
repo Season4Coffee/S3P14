@@ -1,7 +1,7 @@
 #ifndef STAT_H
 #define STAT_H
 #include "tel.h"
-class mob: public tel{
+class stat: public tel{
 public:
 stat(string x, int y, int w);
 void setves(int ves);
