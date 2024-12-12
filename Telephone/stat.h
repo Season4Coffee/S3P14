@@ -6,6 +6,7 @@ public:
 stat(string x, int y, int w);
 void setves(int ves);
 void show();
+void edit();
 protected:
 private:
 int ves;
