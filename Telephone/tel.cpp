@@ -25,8 +25,8 @@ int tel::getcenf(){
 void tel::edit(){
   cout << "Стоимость?\n";
   cin >> y;
-  tel::setcena(int y);
+  setcena(int y);
   cout << "Модель?\n";
   cin << x;
-  tel::setmodel(sring y);
+  setmodel(sring y);
 }
